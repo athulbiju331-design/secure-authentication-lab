@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+auth_lab.db
+auth_security.log
+.env
